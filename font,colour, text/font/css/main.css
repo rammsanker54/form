@@ -1,0 +1,34 @@
+p{
+    text-decoration: line-through;
+}
+h2{
+    text-decoration: overline;
+    display: flex;
+    justify-content: center;
+
+}
+.h3
+{
+    text-decoration-style: dotted;
+}
+
+.textemphasis
+{
+    text-emphasis-color: green;
+    color: blue;
+    background-color: aquamarine;
+    text-shadow: 2px red;
+}
+.h4
+{
+text-indent: 20%;
+}
+.indent
+{
+    text-indent: 50px green
+
+}
+h4 {
+    background-color: brown;
+}
+

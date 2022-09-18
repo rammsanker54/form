@@ -1,0 +1,56 @@
+.font
+{
+        background-color: aqua;
+    outline: auto solid 2px green;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+.variant
+{
+    font-variant: normal;
+    font-size: larger;
+    color: brown;
+    background-color: bisque;
+
+}
+.line-height
+{
+    line-height: 10px;
+    color: darkcyan
+    
+}
+.opacity
+{
+     opacity: 200;
+     background-color: beige;
+}
+.color
+{
+    color: rgb(75, 5, 5);
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+}
+
+.text
+{
+    background-color: bisque;
+    color: black;;
+} 
+
+.emphasised
+{
+    background-color: aqua;
+    color: solid green;
+}
+.a{
+    word-wrap: normal;
+}
+.b
+{
+    word-wrap: break-word;
+}
+.r{
+    width: 150px; 
+    border: 1px solid #000000;
+}
